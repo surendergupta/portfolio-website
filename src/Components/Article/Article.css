@@ -1,0 +1,52 @@
+.article-container
+{
+    width: 90%;
+    mix-blend-mode: normal;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+
+.article-container:hover {
+	background: #fafafa;
+	opacity: 1;
+	transition: background-color 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.article-content {
+    padding: 30px;
+}
+
+.article-date {
+    opacity: 1;
+    color: var(--tertiary-color);
+    font-size: 12px;
+    margin-bottom: 1em;
+}
+
+.article-title {
+    opacity: 1;
+    color: var(--primary-color);
+    font-size: 16px;
+    margin-bottom: 1em;
+    font-weight: 700;
+}
+
+.article-description {
+    opacity: 1;
+    color: var(--secondary-color);
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+.article-link {
+    opacity: 1;
+    padding-top: 20px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.article-link a {
+    color: var(--link-color);
+    text-decoration: none;
+}

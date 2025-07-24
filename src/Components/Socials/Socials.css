@@ -1,0 +1,25 @@
+
+.social-links {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.social-links ul.social-list {
+    list-style: none;
+    padding: 0;
+}
+
+.social-links ul.social-list li {
+    padding-bottom: 20px;
+}
+
+.social-links ul.social-list .social-icon {
+    font-size: 15px;
+    color: var(--secondary-color);
+}
+.social-links ul.social-list .social-text {
+    color: var(--secondary-color);
+    padding-left: 30px;
+    margin-top: -20px;
+    font-weight: 600;
+    font-size: 14px;
+}
