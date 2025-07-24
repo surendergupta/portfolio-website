@@ -1,5 +1,9 @@
 # 🧑‍💻 Personal Portfolio Website (React + Vite + React Router)
 
+🚀 **Live Demo:** [https://portfolio-website-sepia-psi.vercel.app](https://portfolio-website-sepia-psi.vercel.app)
+
+![Website Preview](./public/download.png)
+
 This is a modern, fully responsive **developer portfolio website** built using **React**, **Vite**, and **React Router DOM**. It showcases your profile, projects, articles, and contact information—along with support for Google Analytics, SEO optimization, and dynamic routing for blog/article reading.
 
 ---
